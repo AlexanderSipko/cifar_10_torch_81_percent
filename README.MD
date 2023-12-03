@@ -13,7 +13,7 @@
 
 ![Alt text](image.png)
 
-## [Code there 🏆: > `81 %`](./jupiter.ipynb)
+## [Code there 🏆: > `82 %`](./jupiter.ipynb)
 
 ## Установка зависимостей
 

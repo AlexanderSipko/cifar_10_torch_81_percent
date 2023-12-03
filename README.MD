@@ -9,6 +9,12 @@
 - Matplotlib
 - Numpy
 
+## Результат
+
+![Alt text](image.png)
+
+## [Code there 🏆: > `81 %`](./jupiter.ipynb)
+
 ## Установка зависимостей
 
 ```bash

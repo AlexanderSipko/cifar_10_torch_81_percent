@@ -1,1 +1,5 @@
 .venv
+data/
+upload/
+checkpoint.pt
+cifar10_model.pth
